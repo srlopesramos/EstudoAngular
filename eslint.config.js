@@ -33,6 +33,10 @@ module.exports = tseslint.config(
     },
   },
   {
+    files: ["*.ts, *.js"],
+    extends: ['standart-with-typescript']
+  },
+  {
     files: ["**/*.html"],
     extends: [
       ...angular.configs.templateRecommended,
