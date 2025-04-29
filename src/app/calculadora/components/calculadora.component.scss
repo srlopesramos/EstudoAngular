@@ -1,11 +1,15 @@
-h1{
-  text-align:  center;
-  width:    100%;
-  span{
-    text-transform: uppercase;
-    color: orangered;
-    font-weight: bolder;
-    border-bottom: 2px solid orangered;
-    font-size:  28px;
-  }
+.kz-btn {
+  width: 90%;
+  margin: 4px;
+}
+.kz-input-text {
+  margin-top: 3px;
+  width:96%;
+  margin-left:6px
+}
+.kz-pad-20 {
+  padding: 20px;
+}
+.col-xs-3, .col-xs-9 {
+  padding: 0px;
 }
