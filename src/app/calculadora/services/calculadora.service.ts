@@ -1,3 +1,10 @@
+/**
+ *Serviço responsável por executar as operações da calculadora.
+ *
+ *@author Odair L R Jr<srlopesramos2.0@gmail.com>
+ *@since 1.0.0
+  */
+
 import { Injectable } from '@angular/core';
 
 @Injectable({
@@ -13,7 +20,7 @@ export class CalculadoraService {
 
   //constructor() { }
 
-  /*
+  /**
   * Método que calcula uma operação dado dois números.
   * Suporta as operações soma, subtração, divisão e multiplicação.
   *
