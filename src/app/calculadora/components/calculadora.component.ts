@@ -81,7 +81,7 @@ export class CalculadoraComponent implements OnInit {
    * @param string operacao
    * @return void
    */
-  definirOperação(operacao: string): void {
+  definirOperacao(operacao: string): void {
     //apenas define a operação caso não exista
     if (this.operacao === null) {
       this.operacao = operacao;
@@ -118,6 +118,7 @@ export class CalculadoraComponent implements OnInit {
         parseFloat(this.numero2),
         this.operacao
       )
+      this.numero1 = this.resultado.toString();
     }
 
     /**
