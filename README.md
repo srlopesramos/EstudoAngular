@@ -2,6 +2,13 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
+Este é um projeto de estudoi das aulas de [Formação Angular 13 - O início criando 7 projetos na UDEMY](https://www.udemy.com/course/formacao-angular-inicio-criando-7-projetos/?couponCode=KEEPLEARNINGBR).
+Os projetos foram desenvolvidos em Angular 19.2.9, já corrigindo as diferenças.
+Aluno [Odair L R Jr](https://github.com/srlopesramos)
+
+Projeto 1 [CALCULADORA](https://github.com/srlopesramos/angularCalculadora)
+
+
 ## Development server
 
 To start a local development server, run:
