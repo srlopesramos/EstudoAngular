@@ -6,7 +6,7 @@ Este é um projeto de estudoi das aulas de [Formação Angular 13 - O início cr
 Os projetos foram desenvolvidos em Angular 19.2.9, já corrigindo as diferenças.
 Aluno [Odair L R Jr](https://github.com/srlopesramos)
 
-Projeto 1 [CALCULADORA](https://github.com/srlopesramos/angularCalculadora)
+Projeto 1 [CALCULADORA](https://github.com/srlopesramos/EstudoAngular/tree/calculadora)
 
 
 ## Development server
