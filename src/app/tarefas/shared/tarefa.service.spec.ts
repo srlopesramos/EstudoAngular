@@ -13,4 +13,9 @@ describe('TarefaService', () => {
   it('should be created', () => {
     expect(service).toBeTruthy();
   });
+
+  it('should create a new task', () => {
+    
+  })
+
 });
