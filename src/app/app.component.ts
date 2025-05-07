@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import {RouterOutlet} from '@angular/router';
-import { TarefasModule } from './modules'
+import { TarefasModule } from './tarefas'
 
 @Component({
   selector: 'app-root',
