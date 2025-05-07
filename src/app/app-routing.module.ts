@@ -1,7 +1,7 @@
 import {NgModule} from '@angular/core';
 import {Routes, RouterModule} from '@angular/router';
 
-import {ListarTarefasComponent, TarefasRoutes} from './tarefas'
+import {ListarTarefasComponent} from './tarefas'
 
 export const routes: Routes = [
   {
