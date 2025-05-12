@@ -18,7 +18,9 @@
   <tbody>
     @for (tarefa of tarefas; track tarefa.id) {
       <tr>
-        <td [class.success]="!tarefa.concluida">
+        <td
+          [tarefaConcluida]="tarefa.concluida"
+          [class.success]="!tarefa.concluida">
           {{ tarefa.nome }}
         </td>
         <td style="width: 70px" class="text-center">
